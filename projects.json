@@ -1,14 +1,20 @@
 [
-    {
-      "name": "Project-1",
-      "live": "https://mirandabillue.github.io/SweetTooth/",
-      "git": "https://github.com/MirandaBillue/First-Project.git",
-      "image": "https://i.imgur.com/07OCKnSm.png"
-    },
-    {
-      "name": "Project-2",
-      "live": "https://sucre-10.herokuapp.com/",
-      "git": "https://github.com/MirandaBillue/sucre-10",
-      "image": "https://i.imgur.com/uVNN3n0m.png"
-    }
-  ]
+  {
+    "name": "Project-1",
+    "live": "https://sucre-10.herokuapp.com/",
+    "git": "https://github.com/MirandaBillue/sucre-10",
+    "image": "https://i.imgur.com/uVNN3n0m.png"
+  },
+  {
+    "name": "Project-2",
+    "live": "https://main--kaleidoscopic-longma-f15005.netlify.app/",
+    "git": "https://github.com/MirandaBillue/DopaList-Frontend.git",
+    "image": "https://i.imgur.com/miG8GEy.png"
+  },
+  {
+    "name": "Project-3",
+    "live": "https://phonetic-fanatic.herokuapp.com/",
+    "git": "https://github.com/MirandaBillue/phonetic_fanatic.git",
+    "image": "https://i.imgur.com/yx7B2sT.png"
+  }
+]
